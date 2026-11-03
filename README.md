@@ -8,7 +8,7 @@ Die webseite soll aus einen einzigen Hauptseite bestehen die alle Informationen 
 
 
 # Farbkonzept und Design
-Der Farbkonzept soll einem "Safari-vibes" geben, also gelbe, schwarze, braune und beige Farbtonen. 
+Der Farbkonzept soll einem "Safari-vibes" geben, also gelbe, schwarze, braune und beige Farbtonen. Es soll einen 
 
 
 # Zeitplanung 
