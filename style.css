@@ -1,9 +1,14 @@
 body {
-   background-color: blue font-famiily:
+   background-color: blue font-famiily;
+   background-image: url('https://www.janeclayton.com/media/catalog/product/cache/4fdb6f7a2865fab17ba5fadc23fa563a/g/i/giraffe-print-eijffinger-31-wallpaper-323031-image01.jpg');
+   background-size: cover;
+   background-position: center;
+   min-height: 300px;
 }
 
 p {
-   colour: brown size: 20px
+   color: brown;
+   size: 20px;
 }
 
 .cool-text {
@@ -14,4 +19,16 @@ p {
 .layout {
    display: grid;
    grid-template-columns: 1fr 1fr;
+}
+
+.titelcool {
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   font-size: xx-large;
+   color: saddlebrown;
+}
+
+.untertilel {
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-size: xx-large;
+   color: brown;
 }
