@@ -11,4 +11,7 @@ p {
    font-size: 24px;
 }
 
-0
+.layout {
+   display: grid;
+   grid-template-columns: 1fr 1fr;
+}
