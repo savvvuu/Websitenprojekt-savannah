@@ -31,8 +31,22 @@ p {
 }
 
 
-.untertilel {
+.untertitel {
    font-family: Verdana, Geneva, Tahoma, sans-serif;
-   font-size: 25px;
+   font-size: 20px;
    color: sienna;
+}
+
+img {
+   width: 700px;
+   display: block;
+   margin: 0 auto;
+}
+
+.bild1 {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   min-height: 100px;
+
 }
