@@ -43,4 +43,14 @@ img {
    margin: 0 auto;
 }
 
-.bild1 {}
+.obertitel {
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   font-size: 35px;
+   color: rgb(57, 24, 7);
+}
+
+.titeltier {
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-size: 30px;
+   color: chocolate;
+}
